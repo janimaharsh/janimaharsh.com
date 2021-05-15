@@ -1,7 +1,5 @@
 # janimaharsh.com
 
-https://janimaharsh.com/
+https://janimaharsh.com/    Personal Portfolio
 
-https://janimaharsh.com/blog-1
-
-https://janimaharsh.com/blog-2
+https://janimaharsh.me/     Blog Site
